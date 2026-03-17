@@ -12,10 +12,10 @@ Github seems to have a bug in downloading the slides--the best way to get them i
 
 | Folder | Description |
 |--------|-------------|
-| [AutoRegressionTest](AutoRegressionTest/) | Autoregressive (AR) time series models and forecasting |
+| [AutoRegressionTest](AutoRegressionTest/) | Automated regression test runner that exercises all library modules |
 | [Compression](Compression/) | Data compression algorithms: Huffman coding, LZW |
 | [ComputationalGeometry](ComputationalGeometry/) | Geometric algorithms: convex hull, K-D trees, polygon area |
-| [Cryptography](Cryptography/) | Cryptographic primitives and utilities |
+| [Cryptography](Cryptography/) | Cryptographic algorithms: ARC4 stream cipher, CRC32 integrity check, symmetric encrypt/decrypt |
 | [ErrorCorrectingCodes](ErrorCorrectingCodes/) | Error detection/correction: CRC, LDPC, Reed-Solomon |
 | [ExternalMemoryAlgorithms](ExternalMemoryAlgorithms/) | Algorithms for data sets larger than RAM: external B-trees, CSV/file I/O |
 | [FinancialCalculations](FinancialCalculations/) | Financial math: annuities, cash flows, option pricing, portfolio optimization |
